@@ -120,19 +120,19 @@ const Home = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <ProjectCard
-              image="/src/assets/images/commercial-building.jpeg"
+              image="/src/assets/residential-construction.jpeg"
               title="Corporate Office Tower"
               category="Commercial"
               description="A 15-story office tower with modern amenities and energy-efficient design."
             />
             <ProjectCard
-              image="/src/assets/images/residential-construction.jpeg"
+              image="/src/assets/commercial-building.jpeg"
               title="Luxury Residential Complex"
               category="Residential"
               description="A high-end residential development featuring 50 custom-designed homes."
             />
             <ProjectCard
-              image="/src/assets/images/modern-design.jpeg"
+              image="/src/assets/site-managers.jpeg"
               title="Modern Art Museum"
               category="Public"
               description="An award-winning museum with innovative architecture and exhibition spaces."

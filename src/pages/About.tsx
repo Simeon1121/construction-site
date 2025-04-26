@@ -40,14 +40,14 @@ const About: React.FC = () => {
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
   <div className="aspect-w-4 aspect-h-3">
     <img
-      src="/src/assets/images/site-managers.jpeg"
+      src="/src/assets/residential-construction.jpeg"
       alt="Construction workers at site"
       className="rounded-lg shadow-lg object-cover w-full h-full"
     />
   </div>
   <div className="aspect-w-4 aspect-h-3">
     <img
-      src="/src/assets/images/team-planning.jpeg"
+      src="/src/assets/team-planning.jpeg"
       alt="Team planning meeting"
       className="rounded-lg shadow-lg object-cover w-full h-full"
     />
